@@ -1,0 +1,11 @@
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.deps.json
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.pdb
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.csprojAssemblyReference.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.AssemblyInfoInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.AssemblyInfo.cs
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.pdb
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.runtimeconfig.json
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.DataAccessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.DataAccessLayer.runtimeconfig.dev.json

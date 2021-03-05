@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Infosys.KMaxMovies.Common\Infosys.KMaxMovies.Common.csproj" />
+    <ProjectReference Include="..\Infosys.KMaxMovies.DataAccessLayer\Infosys.KMaxMovies.DataAccessLayer.csproj" />
+  </ItemGroup>
+
+</Project>

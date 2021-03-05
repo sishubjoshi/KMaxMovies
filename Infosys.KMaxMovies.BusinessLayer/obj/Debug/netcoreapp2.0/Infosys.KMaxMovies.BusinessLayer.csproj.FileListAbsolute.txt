@@ -1,0 +1,9 @@
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.deps.json
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.pdb
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.csprojAssemblyReference.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.csproj.CoreCompileInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.AssemblyInfoInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.AssemblyInfo.cs
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.BusinessLayer\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.BusinessLayer.pdb

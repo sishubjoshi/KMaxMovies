@@ -1,0 +1,10 @@
+﻿{
+  "InfoLoggerName" :"AmigoWalletInfoAppender",
+  "AdoNetAppenderInfoConnectionType":  "System.Data.SqlClient.SqlConnection, System.Data, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+  "AdoNetAppenderErrorBufferSize" :"1",
+  "ErrorLoggerName":  "AmigoWalletErrorAppender",
+  "AdoNetAppenderErrorConnectionType" :"System.Data.SqlClient.SqlConnection, System.Data, Version=1.0.3300.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+  "ServiceUrl":  "http://myshec380205d:10070/" ,
+  "schema":"dbo"
+
+}

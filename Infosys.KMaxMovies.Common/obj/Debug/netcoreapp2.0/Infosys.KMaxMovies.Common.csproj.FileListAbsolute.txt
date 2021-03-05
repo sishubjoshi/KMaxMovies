@@ -1,0 +1,9 @@
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.deps.json
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\bin\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.pdb
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.csprojAssemblyReference.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.csproj.CoreCompileInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.AssemblyInfoInputs.cache
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.AssemblyInfo.cs
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.dll
+D:\Nehaa\FSM_Revamp\KMaxMovies\Infosys.KMaxMovies.Common\obj\Debug\netcoreapp2.0\Infosys.KMaxMovies.Common.pdb
